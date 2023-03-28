@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## 서비스 소개 (슬로건, 기능 개괄, 해결하는 문제 포함)
+
+## 데모 영상
+
+## application architecture
+
+## repo 소개 (실행 및 테스트를 위한)
+
+## contributors
+
+
 <!--
 
 **Here are some ideas to get you started:**
