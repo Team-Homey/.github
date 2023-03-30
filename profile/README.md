@@ -13,9 +13,10 @@
 ![homey architecture drawio (6)](https://user-images.githubusercontent.com/91039622/228959545-20f721b6-ea8a-405b-976c-40055b6e7dce.png)
 
 ## 💻contributors
-|<img width="257" alt="image" src="https://user-images.githubusercontent.com/91039622/228966212-40232e25-3cc2-467d-be8d-acd7af38fd2d.png">
-|![KakaoTalk_20230327_225316319_01](https://user-images.githubusercontent.com/91039622/228965473-304f7ed8-00eb-4e0f-804a-50667a7710bf.jpg){: width="300" height="300"}|![image](https://user-images.githubusercontent.com/91039622/228966165-ccef10c3-d29f-4189-9693-9681425cb6c8.png){: width="300" height="300"}
-|![image](https://user-images.githubusercontent.com/91039622/228966072-9a8d2047-2fac-4a54-8c9c-c51d645e2745.png){: width="300" height="300"}|
+|<img width="300" alt="image" src="https://user-images.githubusercontent.com/91039622/228966941-be6efa5b-1b6f-4789-8651-d574c0854979.png">
+|<img width="300" alt="image" src="https://user-images.githubusercontent.com/91039622/228966580-03cb0772-fc4f-49b9-9d6b-471232d17d8d.png">}|<img width="300" alt="image" src="https://user-images.githubusercontent.com/91039622/228966769-fd1dcaf3-09d4-4302-87e0-c7c85dbbe89d.png">
+|<img width="300" alt="image" src="https://user-images.githubusercontent.com/91039622/228966397-aaee84ff-2d44-4503-9b3f-75b84a302a10.png">
+|
 |---|---|---|---|
 |이유림(FE)|이요환(BE)|변서연(ML)|박태진(UI/UX)|
 
