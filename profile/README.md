@@ -9,6 +9,9 @@
 ## 데모 영상
 
 ## application architecture
+![homey architecture drawio (5)](https://user-images.githubusercontent.com/91039622/228959154-8543bf34-9290-4cd1-b5de-180a99ce5756.png)
+
+
 
 ## repo 소개 (실행 및 테스트를 위한)
 
