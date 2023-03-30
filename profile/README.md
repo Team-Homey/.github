@@ -10,7 +10,8 @@
 
 ## application architecture
 ![homey architecture drawio (6)](https://user-images.githubusercontent.com/91039622/228959545-20f721b6-ea8a-405b-976c-40055b6e7dce.png)
-🍯🐝
+
+## 🍯🐝🎯💡🛠💻📱👩🏻‍💻✨
 
 
 ## repo 소개 (실행 및 테스트를 위한)
