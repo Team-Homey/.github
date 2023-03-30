@@ -1,6 +1,10 @@
-## Hi there 👋
-
 ## 서비스 소개 (슬로건, 기능 개괄, 해결하는 문제 포함)
+
+### Building a sweeter home, one hive at a time.
+### Buzzing with harmony: Homey, your family hive.
+### Let Homey be your honeycomb of peace.
+### Happy hive, happy home: Homey's here to help.
+### Honeycomb your home with Homey's family harmony.
 
 ## 데모 영상
 
