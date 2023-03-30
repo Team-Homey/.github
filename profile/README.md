@@ -1,23 +1,19 @@
-## 서비스 소개 (슬로건, 기능 개괄, 해결하는 문제 포함)
+## 💡Introduction
 
-### Building a sweeter home, one hive at a time.
-### Buzzing with harmony: Homey, your family hive.
-### Let Homey be your honeycomb of peace.
-### Happy hive, happy home: Homey's here to help.
-### Honeycomb your home with Homey's family harmony.
+## 🍯Demo Video
 
-## 데모 영상
-
-## application architecture
-![homey architecture drawio (6)](https://user-images.githubusercontent.com/91039622/228959545-20f721b6-ea8a-405b-976c-40055b6e7dce.png)
+## 🎯Our Goal
 
 ## 🍯🐝🎯💡🛠💻📱👩🏻‍💻✨
 
 
 ## repo 소개 (실행 및 테스트를 위한)
 
-## contributors
-|제목|내용|설명|설명|
+## 🛠 application architecture
+![homey architecture drawio (6)](https://user-images.githubusercontent.com/91039622/228959545-20f721b6-ea8a-405b-976c-40055b6e7dce.png)
+
+## 💻contributors
+||||설명|
 |---|---|---|---|
 |이유림(FE)|이요환(BE)|변서연(ML)|박태진(UI/UX)|
 
