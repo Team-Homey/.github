@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/91039622/228971220-d1dc4efa-7e8e-45e6-97ef-0bf8f4b04cf1.png)
+
 # 2023 Solution Challenge - Homey 🏠
 Korea University GDSC - Team homey
 ## 💡Introduction
