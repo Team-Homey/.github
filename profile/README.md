@@ -17,6 +17,11 @@
 ## repo 소개 (실행 및 테스트를 위한)
 
 ## contributors
+|:---:|:---:|:---:|:---:|
+|![image](https://user-images.githubusercontent.com/91039622/228963171-8cffb28f-c39b-4101-b04d-45edf7d58634.png)
+|![image](https://user-images.githubusercontent.com/91039622/228963197-cbec1f92-862e-4428-ad73-a9250f2675a7.png)|![image](https://user-images.githubusercontent.com/91039622/228963038-8957bab9-6ad1-4eb9-87fb-172bb99a25ea.png)
+|![image](https://user-images.githubusercontent.com/91039622/228962988-b219eac1-7c63-42ba-9824-ca21160f727d.png)|
+|이유림|이요환|박태진|중앙정렬|
 
 
 <!--
