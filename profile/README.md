@@ -1,3 +1,5 @@
+# 2023 Solution Challenge - Homey
+Korea University GDSC - Team homey
 ## 💡Introduction
 서비스 타이틀 사진
 
