@@ -2,8 +2,10 @@
 
 # 2023 Solution Challenge - Homey 🏠
 Korea University GDSC - Team homey
+- [Client Repository](https://github.com/Team-Homey/homey_client)
+- [Server Repository](https://github.com/Team-Homey/homey_server)
+- [ML Repository](https://github.com/Team-Homey/ml)
 ## 💡Introduction
-서비스 타이틀 사진
 
 In recent years, conflicts within families, exacerbated by cultural differences between generations, have become a source of significant problems. In fact, according to a survey conducted in Korea, 85% of respondents believe that generational conflicts are a serious issue, and 60% of family members reported an increase in depression caused by family conflicts since COVID-19.
 
@@ -18,18 +20,20 @@ Homey can be the solution to these problems. Homey is a family communication app
 ## 🎯Our Goal
 ![image](https://user-images.githubusercontent.com/91039622/228969279-03c07606-7109-473e-9db8-c851cfc84b48.png)
 
-## repo 소개 (실행 및 테스트를 위한)
+
 
 ## 🛠 application architecture
 ![homey architecture drawio (6)](https://user-images.githubusercontent.com/91039622/228959545-20f721b6-ea8a-405b-976c-40055b6e7dce.png)
 
-## 💻contributors
+## 💻How to execute
+
+1. download apk file of out application here
+2. run the file on your phone
+
+## 👩contributors
 |<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966941-be6efa5b-1b6f-4789-8651-d574c0854979.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966580-03cb0772-fc4f-49b9-9d6b-471232d17d8d.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966769-fd1dcaf3-09d4-4302-87e0-c7c85dbbe89d.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966397-aaee84ff-2d44-4503-9b3f-75b84a302a10.png">|
 |:---:|:---:|:---:|:---:|
 |[이유림(FE)](https://github.com/yurimn)|[이요환(BE)](https://github.com/bumstead-bumstead)|[변서연(ML)](https://github.com/seooyxx)|박태진(UI/UX)|
-
-
-
 
 <!--
 
