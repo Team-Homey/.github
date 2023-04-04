@@ -16,7 +16,7 @@ Homey can be the solution to these problems. Homey is a family communication app
 ‘Shared Gallery’ and 'Today's comment' feature provide opportunities for families to communicate and understand each other by sharing experiences, positive memories and thoughts. In addition, the activity recommendation feature provides activities that all families created based on family characteristics can enjoy, enabling active physical exchanges between them. Finally, the 'Family Relations Management Scale' feature allows you to objectively evaluate and verify family relationships and can lead to practical treatment if there is a problem.
 
 ## 🍯Demo Video
-[<img width="900" alt="image" src="https://user-images.githubusercontent.com/91039622/229774078-6bf877d8-611a-41c1-ac16-db50a3930cb2.png">](https://youtu.be/1yvlLnfoo54)
+[<img width="1000" alt="image" src="https://user-images.githubusercontent.com/91039622/229774078-6bf877d8-611a-41c1-ac16-db50a3930cb2.png">](https://youtu.be/1yvlLnfoo54)
 
 ## 🎯Our Goal
 ![image](https://user-images.githubusercontent.com/91039622/228969279-03c07606-7109-473e-9db8-c851cfc84b48.png)
