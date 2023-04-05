@@ -28,7 +28,7 @@ Homey can be the solution to these problems. Homey is a family communication app
 
 ## 💻How to execute
 
-1. download apk file of out application here : https://yurimn.github.io/homey/release/
+1. download apk file of our application here : https://yurimn.github.io/homey/release/
 2. run the file on your android phone
 
 ## 👩🏼‍💻 contributors
