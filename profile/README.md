@@ -28,8 +28,8 @@ Homey can be the solution to these problems. Homey is a family communication app
 
 ## 💻How to execute
 
-1. download apk file of out application here
-2. run the file on your phone
+1. download apk file of out application here : https://yurimn.github.io/homey/release/
+2. run the file on your android phone
 
 ## 👩🏼‍💻 contributors
 |<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966941-be6efa5b-1b6f-4789-8651-d574c0854979.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966580-03cb0772-fc4f-49b9-9d6b-471232d17d8d.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966769-fd1dcaf3-09d4-4302-87e0-c7c85dbbe89d.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966397-aaee84ff-2d44-4503-9b3f-75b84a302a10.png">|
