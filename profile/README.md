@@ -28,8 +28,13 @@ Homey can be the solution to these problems. Homey is a family communication app
 
 ## 💻How to execute
 
-1. download apk file of our application here : https://yurimn.github.io/homey
+1. download apk file of our application here : https://drive.google.com/file/d/1_thJfasI9Yjvh_X6wWj0nrvrWue_930-/view?usp=sharing
 2. run the file on your android phone
+3. In main page, you can see 'Sign up with Email'. 
+   If you want to make your own family account, write email and name.
+   You can also join another peole in your family account in homey app.
+4. Otherwise, click the Sign up with Google.
+   You can see our example family account.
 
 ## 👩🏼‍💻 contributors
 |<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966941-be6efa5b-1b6f-4789-8651-d574c0854979.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966580-03cb0772-fc4f-49b9-9d6b-471232d17d8d.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966769-fd1dcaf3-09d4-4302-87e0-c7c85dbbe89d.png">|<img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966397-aaee84ff-2d44-4503-9b3f-75b84a302a10.png">|
