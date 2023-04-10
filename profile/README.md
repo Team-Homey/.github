@@ -28,7 +28,7 @@ Homey can be the solution to these problems. Homey is a family communication app
 
 ## 💻How to execute
 
-1. download apk file of our application here : https://drive.google.com/file/d/1_thJfasI9Yjvh_X6wWj0nrvrWue_930-/view?usp=sharing
+1. download apk file of our application here : https://drive.google.com/file/d/1CXlHZaqjfBEQ8TTsKnMekTwNUQFrQi3I/view?usp=sharing
 2. run the file on your android phone
 3. In main page, you can see 'Sign up with Email'. 
    If you want to make your own family account, write email and name.
